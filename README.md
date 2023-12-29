@@ -93,3 +93,17 @@ Answer these questions:
 4. Enhance user experience with additional features if desired.
 
 Planning before writing code helps create a clear roadmap and leads to more organized and maintainable code.
+
+## Acknowledgments
+
+Special thanks and a shout out to the following individuals and organizations:
+
+- [Dev10](https://www.dev-10.com/)
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to [Amir](https://www.linkedin.com/in/amirhossein-olyaei/).
+
+## License
+
+This project is licensed under the MIT License.
